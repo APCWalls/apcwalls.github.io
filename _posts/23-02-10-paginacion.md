@@ -3,7 +3,7 @@ title: Poner paginación en tu web
 nombre: True
 date: 2023-02-09 11:33:00 +0800
 categories: [Blogging, Tutorial]
-tags: [pagination]
+tags: [paginacion]
 
 ---
 
