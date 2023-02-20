@@ -11,4 +11,5 @@ tags: [modifica]
 He modificado el .yml 
 ![Desktop View](/assets/img/modifica.png)
 Por lo que se añaden o quitan los iconos con el enlace que le hemos puesto.
+
 ![Desktop View](/assets/img/modifica2.png)
