@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -19,18 +19,18 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Patricia Casas                         # the main title
+title: Alejandro Paredes                         # the main title
 
-tagline: Como he hecho esta página   # it will display as the sub-title
+tagline: La práctica de Jekyll   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Bienvenidos a mi página
+  Proyecto de Jekyll que espero que me sirva para aprobar
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: PatriciaCaP             # change to your github username
+  username: APCWalls             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -39,12 +39,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Patricia Casas
-  email: casasp.patricia@gmail.com             # change to your email address
+  name: Alejandro Paredes
+  email: correoprueba@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/?lang=es      # change to your twitter homepage
-    - https://github.com/PatriciaCaP      # change to your github homepage
+    - https://github.com/APCWalls      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -82,7 +81,7 @@ theme_mode:   [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets/img/gito.jpg'
+avatar: 'assets/img/perfil.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
