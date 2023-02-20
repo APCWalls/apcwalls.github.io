@@ -4,7 +4,6 @@ nombre: True
 date: 2023-02-15 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [netlifly]
-
 ---
 ## ¿Qué es Netlify?
 Netlify es una plataforma de alojamiento web que permite a los desarrolladores crear, implementar y gestionar sitios web de manera fácil y rápida. Ofrece una variedad de características útiles, como integración continua, soporte para DNS personalizado y certificados SSL gratuitos.
