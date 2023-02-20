@@ -6,7 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [google analitycs]
 
 ---
-![Desktop View](/assets/img/google-analytics-logo.png)
+
 
 Google Analytics es una herramienta gratuita de seguimiento de estadísticas que te permite obtener información sobre el tráfico de tu sitio web. En este tutorial, aprenderás cómo crear una cuenta de Google Analytics y enlazarla con tu sitio web en GitHub Pages con Jekyll.
 
@@ -47,11 +47,7 @@ Después de esperar unas horas o un día, regresa a tu cuenta de Google Analytic
 
 ## Mi Google Analytics
 
-![Desktop View](/assets/img/Screenshot_10.png)
 
-![Desktop View](/assets/img/Screenshot_5.png)
-
-![Desktop View](/assets/img/Screenshot_6.png)
 
 ## Aprende más
 
