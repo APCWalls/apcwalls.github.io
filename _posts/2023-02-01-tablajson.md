@@ -6,6 +6,16 @@ categories: [Blogging, Tutorial]
 tags: [tabla, json]
 ---
 
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th>Sexo</th>
+    </tr>
 {% for persona in site.data.personas %}
-## {{ persona.nombre }} - {{ persona.formacion }} - {{persona.edad}}
+<tr>
+<td>{{ persona.nombre }}</td>
+<td>{{ persona.edad }}</td>
+<td>{{ persona.sexo }}</td>
+</tr>
 {% endfor %}
