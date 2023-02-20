@@ -43,6 +43,9 @@ Subir un repositorio de GitHub a Netlify es fácil y puede ser una buena manera 
 
 ## En mi caso personal:
 ![Desktop View](/assets/img/netlify1.png)
+
 ![Desktop View](/assets/img/netlify2.png)
+
 ![Desktop View](/assets/img/netlify3.png)
+
 ![Desktop View](/assets/img/netlify4.png)
