@@ -55,7 +55,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-4TJWX0E6K1   # fill in your Google Analytics ID
+  id: G-MNLMTW8ZGD   # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   [dark]
+theme_mode:   [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -91,7 +91,7 @@ toc: true
 comments: 
   active: disqus 
   disqus:
-    shortname: https-patriciacap-github-io
+    shortname: https-apcwalls-github-io
   utterances:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
